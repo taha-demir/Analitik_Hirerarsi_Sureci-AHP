@@ -4,9 +4,9 @@ Baltalar Mobilya firmasının, büyüyen üretim hacmi için yeni bir fabrika ye
 Baltalar Mobilya’nın kararına etki edecek 4 kriteri var: Emlâk fiyatı, tedarikçilere uzaklığı, o yerdeki işgücünün kalitesi ve işçilik maliyeti.
 Firmanın karar vermesi gereken 3 yer alternatifi var: A, B ve C.
 Bu üç yerin, "Emlak Fiyatı", "Tedarikçi Yakınlığı", "İşgücü Rezervi" ve "İşgücü Maliyeti" kriterlerinde birbirlerine karşı üstünlük matrisleri kod içerisinde şu değişkenlerle tanımlanmıştır:
-emlak_fiyati, tedarikci_yakinligi, isgucu_rezervi, isgucu_maliyeti.
+emlak_fiyati, tedarikci_yakinligi, isgucu_rezervi, isgucu_maliyeti .
 Kriterlerin birbirlerine karşı önem matrisleri ise şu değişkenle tanımlanmıştır:
-onem_matrisi
+onem_matrisi .
 Her adım yorum satırlarıyla açıklanmıştır.
 
 AHP ile ilgili detaylı anlatım: http://www.hasanbaltalar.com/index.php?id=43 
